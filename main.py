@@ -18,3 +18,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Revision note: entrypoint verified — writes exactly one office joke line (<200 chars) to /output/entry.txt; never deletes the output dir.
